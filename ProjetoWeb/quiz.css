@@ -1,0 +1,54 @@
+
+
+
+main {
+    border-left: 20px solid black;  
+    border-right: 20px solid black; 
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 60%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+h1, h2 {
+    text-align: center;
+    color: #333; /
+}
+
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0;
+    background-color: #4CAF50; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049; 
+    
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+
+hr {
+    margin: 20px 0;
+}
+
+
+#resultado {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #4CAF50;
+}
